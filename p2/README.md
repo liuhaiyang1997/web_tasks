@@ -1,1 +1,1 @@
-在eclipse下用python语言来制作一个很low的爬虫
+在pycharm下用python语言来制作一个很low的爬虫
