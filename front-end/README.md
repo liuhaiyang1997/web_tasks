@@ -1,2 +1,0 @@
-对于Css需要更多的理解
-对于gitbush和Ubuntu了解不够
