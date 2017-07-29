@@ -1,0 +1,59 @@
+
+._login{
+	width: 400px;
+    height: 300px;
+    padding: 13px;       
+    position: absolute;
+    left: 50%;
+    top: 50%;      
+    margin-left: -200px;
+    margin-top: -200px;      
+    border-radius: 0px;  
+    text-align: center;   
+	filter:alpha(Opacity=60);-moz-opacity:0.6;opacity: 0.6 
+}
+.name0{
+	font-family: "微软雅黑";
+	font-size: 50px;
+	color: white;
+	margin-left: -15px;
+	
+}
+.name1{
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: white;
+	margin-top: 20px;
+	margin-left: -200px;
+}
+.text_field{
+	width: 300px;
+    height: 48px;
+    boder:0;
+    border-radius: 20px;
+    margin-left: -20px;
+}
+.remember{
+	margin-top: 10px;
+	margin-left: -75px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: white;
+}
+.btn-login{
+	width: 300px;
+    height: 48px;
+    boder:0px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: -20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.forget-pwd{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: -10px;
+	color: white;
+}
