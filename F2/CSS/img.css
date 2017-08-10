@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ul{
+	list-style: none;
+}
+
+.container{
+	width: 680px;
+	height: 380px;
+	border: 2px solid  gray;
+	margin: 100px auto;
+	position: relative;
+	overflow: hidden;
+}
+
+.container ul{
+	width: 3000px;
+	position: relative;
+}
+
+.container ul li{
+	float: left;
+	width: 680px;
+}
+
+.container .btn{
+	position: absolute;
+	right: 10px;
+	bottom: 5px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.container .btn span{
+	cursor: pointer;   /*鼠标在此的形状*/
+	display: block;
+	float: left;
+	width:20px;
+	height: 20px;
+	background:blueviolet;
+	margin-left:2px;
+	color: blue;
+}
+
+.container .btn .active{
+	background: navajowhite;
+}
+
+.left-arrow {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.right-arrow {
+    position: absolute;
+    right: 0;
+    top: 40%;
+    width: 10%;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+a {
+    text-decoration: none;
+}
